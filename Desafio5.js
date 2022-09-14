@@ -1,3 +1,4 @@
+//programa que recebe um valor em dinheiro para ser trocado em cédulas.
 let quantia, n100, n50, n20, n10, n5
 
 quantia=parseInt(prompt("Digite uma quantia de dinheiro para ser trocada e notas de 100, 50, 20, 10 e 5."))
