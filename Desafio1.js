@@ -1,3 +1,4 @@
+//programa que recebe um tempo em segundos e o converte em horas, minutos e segundos
 let t, m, s, h
 t = prompt("Digite um tempo em segundos")
 console.log(t)
