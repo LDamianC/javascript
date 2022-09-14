@@ -1,3 +1,4 @@
+//programa que calcula uma media ponderada. A primeira nota tem peso 2, a segunda 3 e a terceira 5.
 let n1, n2, n3, mf
 n1 = prompt("Digite a primeira nota")
 n2 = prompt("Digite a segunda nota")
