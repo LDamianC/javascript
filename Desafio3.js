@@ -1,3 +1,4 @@
+//programa que recebe 3 números inteiros e retorna o maior deles.
 let valor1, valor2, valor3, aux, maior
 valor1 = parseInt(prompt("Digite 3 valores inteiros diferentes:"))
 valor2 =  parseInt(prompt("Digite 3 valores inteiros diferentes:"))
